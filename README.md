@@ -1,3 +1,3 @@
-# Issues
+# todo
 
-The official public issue tracker for the Arvenwood MineCraft server.
+The official public tod list tracker for the Arvenwood MineCraft server.
